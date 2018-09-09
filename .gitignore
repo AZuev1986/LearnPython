@@ -1,4 +1,6 @@
 *.pyc
+*.log
+settings.py
 .DS_Store
 .ipynb_checkpoints/console-checkpoint
 .ipynb_checkpoints/list-dict-checkpoint.py
